@@ -8,6 +8,8 @@ Bu uygulama PINSOFT şirketi staj başvurum için benden istenen projedir.
 - Singleton yapısı kullanılarak colors, icons, sizes, internet erişim kontrolü gibi sınıfların bir kere oluşturulup bütün sayfalarda erişimi sağlanmıştır. Böylece anlaşılır bir tasarım deseni uygulanmıştır.
 - Model - View - Controller Mimarisi kullanılmıştır. 
 
+---
+
 
 ### __Kazanımlarım:__
 - Rest API kullanımı
@@ -16,4 +18,6 @@ Bu uygulama PINSOFT şirketi staj başvurum için benden istenen projedir.
 - Dökümantasyon okuma ve diğer kişiler tarafından yazılmış koldarı inceleme
 
   gibi çok güzel kazanımlarım oldu.
+  
+---
 
