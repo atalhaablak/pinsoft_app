@@ -1,23 +1,25 @@
-class MenuModel{
+// Menüye güzel görüntü için eklenen kategorilerin model yapısı.
+
+class MenuModel {
   String title;
 
   MenuModel({this.title});
 
   static List<MenuModel> menu = [
     MenuModel(
-        title: "Tümü",
+      title: "Tümü",
     ),
     MenuModel(
-        title: "Aksiyon",
+      title: "Aksiyon",
     ),
     MenuModel(
-        title: "Komedi",
+      title: "Komedi",
     ),
     MenuModel(
-        title: "Romantik",
+      title: "Romantik",
     ),
     MenuModel(
-        title: "Fantastik",
+      title: "Fantastik",
     ),
   ];
 }

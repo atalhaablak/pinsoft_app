@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 // API özellikleri alınarak gerekli sorgu yapıları hazırlandı.
 class ApiService {
-  static String key = "apikey=ae4ce192";
+  static String key = "apikey=2d6be2ce";
   static String api = "http://www.omdbapi.com/?${key}&";
   static String detail = "t=";
   static String search = "s=";

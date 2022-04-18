@@ -5,6 +5,9 @@ import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:pinsoft_movie_app/main.dart';
 
+//Internet bağlantısını kontrol etmemizi sağlayan sınıf.
+//  connectivity_plus: ^2.0.2
+
 class MyConnectivity {
   MyConnectivity._();
 
