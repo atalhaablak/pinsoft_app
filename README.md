@@ -3,7 +3,7 @@
 Bu uygulama PINSOFT şirketi staj başvurum için bendes istenen projedir.
 
 ### __Kazanımlarım:__
-- API Bağlama
+- Rest API kullanımı
 - Singleton Yapısı
 - Güncel Kütüphaneler ve pluginlerin kullanılması, amaca yönelik değiştirilmesi
 - Dökümantasyon okuma ve diğer kişiler tarafından yazılmış koldarı inceleme
